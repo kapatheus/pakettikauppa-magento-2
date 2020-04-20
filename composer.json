@@ -14,7 +14,7 @@
     "support": {
         "email": "integration@pakettikauppa.fi"
     },
-"minimum-stability": "stable",
+"minimum-stability": "dev",
     "autoload": {
         "files": [ "Pakettikauppa/Logistics/registration.php" ],
         "psr-4": { "Pakettikauppa\\Logistics\\": "Pakettikauppa/Logistics" }
